@@ -70,3 +70,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Models/PROPAL_A4_V3 embed to delete.glb
+Assets/Scenes/M1Level1.unity
+Assets/VisualX_Studio/App_UI_Icon_animation_FREE/Demo/Resource/Textures/icon_back.psd
